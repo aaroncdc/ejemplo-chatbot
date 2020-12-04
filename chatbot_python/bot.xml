@@ -1,0 +1,15 @@
+<bot>
+    <regla>
+        <patron>HOLA</patron>
+        <respuesta>Hola, usuario.</respuesta>
+        <respuesta>Saludos, usuario.</respuesta>
+    </regla>
+    <regla>
+        <patron>ME GUSTA EL FUTBOL</patron>
+        <respuesta>A mi también me gusta el fútbol</respuesta>
+    </regla>
+    <regla>
+        <patron>ME GUSTA *</patron>
+        <respuesta>Pues a mi no.</respuesta>
+    </regla>
+</bot>
